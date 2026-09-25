@@ -1,0 +1,26 @@
+let s1="Welcome"
+console.log(s1)
+console.log(typeof(s1))
+console.log("---------------")
+s1=100
+console.log(s1)
+console.log(typeof(s1))
+console.log("---------------")
+s1=true
+console.log(s1)
+console.log(typeof(s1))
+console.log("---------------")
+s1=10.45
+console.log(s1)
+console.log(typeof(s1))
+console.log("---------------")
+s1=[4,5,7,8]
+console.log(s1)
+console.log(typeof(s1))
+console.log("---------------")
+s1={
+    id:1,
+    fname:"Santosh"
+}
+console.log(s1)
+console.log(typeof(s1))
